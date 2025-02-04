@@ -1,5 +1,10 @@
 # Smart Flower Pot 🌼
 
+## Project Demo 🎥
+
+Download and watch the demo video from the repository:  
+[Smart_Flower_Pot_Demo.mp4](https://github.com/Vimukthixsandeepa/smart-flower-pot/blob/main/project%20prototype.mp4)
+https://github.com/Vimukthixsandeepa/smart-flower-pot/blob/main/project%20prototype.mp4
 An IoT-based smart system designed to monitor and maintain the health of plants by automating watering and providing real-time environmental data.
 
 ## Features 🚀
